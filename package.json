@@ -4,6 +4,7 @@
   "description": "this is a git-flow",
   "main": "index.js",
   "scripts": {
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +22,7 @@
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.9"
+    "lint-staged": "^10.2.9",
+    "standard-version": "^8.0.0"
   }
 }
