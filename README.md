@@ -13,3 +13,4 @@ this is a git-flow
 - npm i -D husky
 - cnpm i -D @commitlint/cli @commitlint/config-conventional
 - 配置commitlint.config.js
+- 参考 https://blog.csdn.net/wei371522/article/details/84070803
