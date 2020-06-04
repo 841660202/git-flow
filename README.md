@@ -3,7 +3,7 @@
  * @Author: hailong.chen
  * @Date: 2020-06-04 21:53:40
  * @LastEditors: hailong.chen
- * @LastEditTime: 2020-06-05 00:05:50
+ * @LastEditTime: 2020-06-05 00:08:47
  * @Descripttion: 
 --> 
 # git-flow
@@ -27,3 +27,4 @@ this is a git-flow
 - .git /hooks/ 文件在cnpm i -D husky 时未补全， 需要运行 cnpm rebuild；参考：https://developer.aliyun.com/mirror/npm/package/husky
 - 还是有点问题
 - husky 最新版本提示 ```Cannot find module 'babel-polyfill'```
+- 注意： type与描述之间需要一个空格，缺少了会出问题的
