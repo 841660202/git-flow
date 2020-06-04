@@ -3,7 +3,7 @@
  * @Author: hailong.chen
  * @Date: 2020-06-04 21:53:40
  * @LastEditors: hailong.chen
- * @LastEditTime: 2020-06-04 23:48:23
+ * @LastEditTime: 2020-06-04 23:53:42
  * @Descripttion: 
 --> 
 # git-flow
@@ -25,3 +25,4 @@ this is a git-flow
 
 - changelog.md 生成html别用户预览
 - .git /hooks/ 文件在cnpm i -D husky 时未补全， 需要运行 cnpm rebuild；参考：https://developer.aliyun.com/mirror/npm/package/husky
+- 还是有点问题
