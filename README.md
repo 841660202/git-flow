@@ -3,7 +3,7 @@
  * @Author: hailong.chen
  * @Date: 2020-06-04 21:53:40
  * @LastEditors: hailong.chen
- * @LastEditTime: 2020-06-04 22:52:59
+ * @LastEditTime: 2020-06-04 23:10:35
  * @Descripttion: 
 --> 
 # git-flow
@@ -22,3 +22,5 @@ this is a git-flow
 ✔ committing CHANGELOG.md
 ✔ tagging release v0.0.1
 ℹ Run `git push --follow-tags origin master` to publish
+
+- changelog.md 生成html别用户预览
